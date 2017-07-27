@@ -12,6 +12,10 @@
   - print the board with :taco: and :pizza:
   - congratulate with :taco: or :pizza:, whichever player chose
   
+# ambitious plan :scream:
+
+  - make into mobile app with [Toga](https://pybee.org/project/projects/libraries/toga/)
+  
 # when
   I don't actually have time right now, but I'd like to work on this during PyCon AU 2017 Monday sprint :grin: 
   
