@@ -20,7 +20,7 @@ plan
 ambitious plan 😱
 =================
 
-- make into mobile app with [Toga](https://pybee.org/project/projects/libraries/toga/)
+- make into mobile app with `Toga <https://pybee.org/project/projects/libraries/toga/>`_
   
 when
 ====
