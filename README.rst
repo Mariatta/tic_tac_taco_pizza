@@ -55,7 +55,7 @@ How it works
 - You'll be asked, 🌮 or 🍕
 - A 👊 📃 ✂️  (rock, paper, scissor) will determine the next player
 - Keep playing until it ends.
-- Exit anytime by ``ctrl-X``
+- Exit anytime by ``ctrl-C``
 
 
 ambitious plan 😱
@@ -73,5 +73,5 @@ v 0.1.0 was made during PyConAU 2017 sprint.
 conclusion
 ==========
 
-🌮 is the new 🍕
+🌮 is the new 🎉
   
