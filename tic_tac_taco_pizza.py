@@ -209,7 +209,7 @@ def get_token():
         value = click.prompt(textwrap.dedent("""
         Please choose one of: pizza, taco, 🌮 , or  🍕 . (exit to cancel)
         """))
-        value_lower = value.lower()
+        value_lower = value.strip().lower()
         if value_lower in ('pizza', '🍕'):
             return '🍕'
         elif value_lower in ('taco', '🌮'):
