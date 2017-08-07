@@ -3,6 +3,31 @@ tic_tac_taco_pizza
 
 🐍🌮🍕 Play tic tac toe, with taco and pizza
 
+.. contents::
+
+
+Usage
+=====
+
+::
+
+   $ python3 -m tic_tac_taco_pizza [--token TOKEN]
+
+Options
+-------
+
+::
+
+   --token TOKEN        specify a token, one of: `taco`, `pizza`, 🌮 , or 🍕
+
+
+Demo
+====
+
+https://asciinema.org/a/132421
+
+
+
 Premise
 =======
 
