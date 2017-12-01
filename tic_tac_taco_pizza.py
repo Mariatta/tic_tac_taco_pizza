@@ -5,7 +5,7 @@ import sys
 import textwrap
 import random
 
-__version__ = '0.1.0.dev1'
+__version__ = '0.1.2.dev2'
 
 
 CONTEXT_SETTINGS = dict(help_option_names=['-h', '--help'])
