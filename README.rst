@@ -17,7 +17,7 @@ It is recommended that you install tic_tac_taco_pizza using a virtualenvironment
 
    $ python3 -m venv venv
    $ source venv/bin/activate
-   $ pip install tic_tac_taco_pizza
+   $ python3 -m pip install tic_tac_taco_pizza
 
 
 Usage
